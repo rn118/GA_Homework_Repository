@@ -9,7 +9,11 @@
 #### Command Line Tasks
 
 1. Look at the head and the tail of **chipotle.tsv** in the **data** subdirectory of this repo. Think for a minute about how the data is structured. What do you think each column means? What do you think each row means? Tell me! (If you're unsure, look at more of the file contents.)
+..* *A: Each Column represents a dimension of the order.  Each row represents an item in an order*
+
 2. How many orders do there appear to be?
+..* *A: 1,834 orders total*
+
 3. How many lines are in this file?
 4. Which burrito is more popular, steak or chicken?
 5. Do chicken burritos more often have black beans or pinto beans?
