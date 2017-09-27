@@ -25,7 +25,7 @@
 
 6. Make a list of all of the CSV or TSV files in the [our class repo] (https://github.com/ga-students/DS-SEA-07). repo (using a single command). You will be working on your local repo on your laptop.  Think about how wildcard characters can help you with this task.
   * *Command: $ find -name '*.csv' -o -name '*.tsv'*
-    *Files:
+  * *Files:
     ./data/airlines.csv
 ./data/Airline_on_time_west_coast.csv
 ./data/bank-additional.csv
@@ -53,8 +53,7 @@
 ./data/ufo.csv
 ./data/vehicles_test.csv
 ./data/vehicles_train.csv
-./data/yelp.csv
-*
+./data/yelp.csv*
 
 7. Count the approximate number of occurrences of the word "dictionary" (regardless of case) across all files of [our class repo] (https://github.com/ga-students/DS-SEA-7).
 8. **Optional:** Use the the command line to discover something "interesting" about the Chipotle data. Try using the commands from the "advanced" section!
